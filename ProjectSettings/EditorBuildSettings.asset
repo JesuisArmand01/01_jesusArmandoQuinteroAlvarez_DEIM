@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ud03/JohnLemon.unity
-    guid: 6b8c42077bea26c44a615b0e2bd0e702
+    path: Assets/Scenes/ud03/Tanks.unity
+    guid: aa2730d06dd2636418621c86f42da115
   m_configObjects: {}
